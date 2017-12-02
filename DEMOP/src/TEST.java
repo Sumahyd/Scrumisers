@@ -6,6 +6,8 @@ public class TEST {
          System.out.println("first commit from demop");
          
          System.out.println("second commit from demop");
+         
+         System.out.println("third");
 
 	}
 
