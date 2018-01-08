@@ -14,6 +14,7 @@ public class set{
    System.out.println(itr.next());  
    System.out.println("git commit ");
    System.out.println("commit ");
+   System.out.println("suma");
   }  
  }  
 }  
