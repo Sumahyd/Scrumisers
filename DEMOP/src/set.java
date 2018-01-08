@@ -13,6 +13,7 @@ public class set{
   while(itr.hasNext()){  
    System.out.println(itr.next());  
    System.out.println("git commit ");
+   System.out.println("commit ");
   }  
  }  
 }  
