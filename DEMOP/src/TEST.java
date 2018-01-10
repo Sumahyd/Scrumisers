@@ -8,6 +8,8 @@ public class TEST {
          System.out.println("second commit from demop");
          
          System.out.println("third");
+         
+         System.out.println("commit after cloning");
 
 	}
 
